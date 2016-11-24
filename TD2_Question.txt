@@ -1,0 +1,10 @@
+Question 1:
+
+	Client (Nom, Prenom, Adresses, Ville, CP, Pays, Tél, Email)
+	Reservation (NumReservation, DateDebut, DateFin, DatepayeArrhes, MontantArrhes, Classe)
+	Chambre (NumChambre, NumTél)
+	Hotel (NumHotel, NomH, AdresseH, CPH, TelH)
+	Classes (NombEtoile, Caractéristique)
+	Catégories (CodeCatégorie, Description)
+	Facture (DateArrivé, DateDépart, Nprix, QuantitéPres)
+	Conso (DateConso, Heure, Conso)
